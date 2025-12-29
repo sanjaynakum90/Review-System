@@ -26,19 +26,34 @@ A simple and clean **React Review System** that allows users to submit reviews w
 ---
 
 ## 🗂 Project Structure
+<br/>
 src/
+<br/>
+
 │
+<br/>
 ├── assets/
+<br/>
 │
+<br/>
 ├── Components/
+<br/>
 │   ├── ReviewForm.jsx      # Form to submit a review
+<br/>
 │   ├── ReviewList.jsx      # Displays list of reviews
+<br/>
 │   └── ReviewSystem.jsx    # Main review logic
+<br/>
 │
+<br/>
 ├── App.jsx
+<br/>
 ├── main.jsx
+<br/>
 ├── App.css
+<br/>
 └── index.css
+<br/>
 
 
 
