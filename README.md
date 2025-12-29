@@ -56,9 +56,6 @@ src/
 <br/>
 
 
-
-## 🧠 What You’ll Learn
-
 * React component composition
 * Controlled form inputs
 * Lifting state up
